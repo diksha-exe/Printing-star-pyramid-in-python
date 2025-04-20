@@ -1,6 +1,6 @@
 # 🌟 Star Pyramid
 
-A chaotic little Python script that prints all three types of **star pyramid alignments** — left, right, and center — with loops, exception handling, and some tastefully sprinkled profanity. Built to run until you rage-quit with `0`.
+A brainrot little Python script with curse words that prints all three types of **star pyramid alignments** — left, right, and center — with loops, exception handling, and some tastefully sprinkled profanity. Built to run until you rage-quit with `0`.
 
 ## 🧱 Features
 
