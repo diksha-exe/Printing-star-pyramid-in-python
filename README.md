@@ -17,3 +17,39 @@ A chaotic little Python script that prints all three types of **star pyramid ali
 
 ## 🔥 Sample Output
 
+hwak tuah START enter number of rows: 4 number of rows = 4 here's you fucking pyramid * **
+
+here's fucking right pyramid * **
+
+TS why is end="" used??
+
+Without end="" Hello world
+
+With end="" HelloWorld
+
+This shit gettin interstin
+
+lesgooo centre pyramid *
+
+csharp
+Copy
+Edit
+
+## 🚀 Run It
+
+Make sure Python is installed. Then:
+
+```bash
+python star_pyramid.py
+Keep building pyramids. Type 0 when your soul is full.
+
+🤝 Contribute
+Fork it, remix it, make it weirder. Open a PR if you add something cursed and useful.
+
+🗑️ Exit Strategy
+Press any key to keep going.
+Press 0 to dip.
+You'll get a lovely farewell:
+bye bxtch
+
+Stay spiky. Stay symmetrical. 🧠✨
