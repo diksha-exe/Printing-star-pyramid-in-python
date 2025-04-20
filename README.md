@@ -1,4 +1,4 @@
-# 🌟 Star Pyramid (with Swag)
+# 🌟 Star Pyramid
 
 A chaotic little Python script that prints all three types of **star pyramid alignments** — left, right, and center — with loops, exception handling, and some tastefully sprinkled profanity. Built to run until you rage-quit with `0`.
 
@@ -16,7 +16,7 @@ A chaotic little Python script that prints all three types of **star pyramid ali
 > Keep running until you smash that `0` and escape the pyramid matrix.
 
 ## 🔥 Sample Output
-
+'''plaintext
 hwak tuah START enter number of rows: 4 number of rows = 4 here's you fucking pyramid * **
 
 here's fucking right pyramid * **
@@ -38,9 +38,8 @@ Edit
 ## 🚀 Run It
 
 Make sure Python is installed. Then:
-
-```bash
-python star_pyramid.py
+'''bash
+python3 star_pyramid.py
 Keep building pyramids. Type 0 when your soul is full.
 
 🤝 Contribute
@@ -50,6 +49,7 @@ Fork it, remix it, make it weirder. Open a PR if you add something cursed and us
 Press any key to keep going.
 Press 0 to dip.
 You'll get a lovely farewell:
+'''plaintext
 bye bxtch
 
 Stay spiky. Stay symmetrical. 🧠✨
