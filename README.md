@@ -1,0 +1,19 @@
+# 🌟 Star Pyramid (with Swag)
+
+A chaotic little Python script that prints all three types of **star pyramid alignments** — left, right, and center — with loops, exception handling, and some tastefully sprinkled profanity. Built to run until you rage-quit with `0`.
+
+## 🧱 Features
+
+- Prints **left**, **right**, and **center-aligned** pyramids.
+- Handles dumb input with a classic *"invalid input"* roast.
+- Demonstrates `end=""` like a goddamn legend.
+- Includes a loop so you can spam pyramids until you type `0` to leave.
+- Comes with some strong language and stronger vibes.
+
+## 📜 Description
+
+> All three star alignments — right, left, and center — in Python with exception handling, loops, and a cursed mouth.  
+> Keep running until you smash that `0` and escape the pyramid matrix.
+
+## 🔥 Sample Output
+
